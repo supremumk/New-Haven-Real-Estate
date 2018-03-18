@@ -2,5 +2,5 @@
 This is my very first project using R in Sep 2016.
 In this project, I
 	-Scraped and cleaned New Haven real estate data from 27307 webpages using R
-	-Identified longitude and latitude for each property from Census Bureau, ArcGIS and Google API and constructed a rule <br>to integrate and measure the reliability of three geocoding results
+	-Identified longitude and latitude for each property from Census Bureau, ArcGIS and Google API <br> constructed a rule to integrate and measure the reliability of three geocoding results
 
